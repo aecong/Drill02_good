@@ -41,8 +41,7 @@ def run_rectangle():
         rander_all(50,y)  
 
 while True:
-    #run_circle()
+    run_circle()
     run_rectangle()      
-    break
 
 close_canvas()

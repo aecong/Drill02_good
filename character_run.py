@@ -1,5 +1,5 @@
 import math
-from pico 2d import *
+from pico2d import *
 
 open_canvas()
 
@@ -16,6 +16,5 @@ def run_rectangle():
 while True:
     run_circle()
     run_rectangle()
-    break
 
 close_canvas()
